@@ -1,0 +1,1 @@
+CREATE TABLE countries(ID int,NAME varchar(255));
